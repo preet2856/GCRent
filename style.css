@@ -576,7 +576,7 @@ footer {
     display: none;
 }
 
-@media (max-width:500px) {
+@media (max-width: 900px) {
     .ri-menu-2-line {
         font-size: 5vw;
         display: initial;
@@ -598,7 +598,9 @@ footer {
         font-size: 3vw;
         padding: 2.5vw 7vw;
     }
+}
 
+@media (max-width:500px) {
     .part-1-img h1 {
         font-size: 9vw;
     }
